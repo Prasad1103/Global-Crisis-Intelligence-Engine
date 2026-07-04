@@ -645,7 +645,7 @@ The following screenshots demonstrate different stages of the project implementa
 | [📉 Window Functions](screenshots/10_window_function.png) | Ranking and analytical window function results |
 | [🗺️ ER Diagram](screenshots/11_er_diagram.png) | Entity Relationship Diagram of the database |
 | [⚡ Query Performance](screenshots/12_explain_analyze.png) | Query optimization using EXPLAIN ANALYZE |
-```
+
 These screenshots provide visual evidence of:
 
 - Database creation
