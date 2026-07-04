@@ -1,0 +1,29 @@
+Field,Label,Value
+id,Dataset ID,4fdcd4dc-5c2f-43af-a1e4-93c9b6539a27
+title,Title of Dataset,Global Food Prices Database (WFP)
+name,Dataset URL,wfp-food-prices
+notes,Description,"This no longer updated dataset contains Global Food Prices data from the World Food Programme covering foods such as maize, rice, beans, fish, and sugar for 76 countries and some 1,500 markets. It is updated weekly but contains to a large extent monthly data. The data goes back as far as 1992 for a few countries, although many countries started reporting from 2003 or thereafter.  This dataset has been replaced by a new and ongoing global food prices dataset <a href=""https://data.humdata.org/dataset/global-wfp-food-prices"">here</a>."
+dataset_source,Source,World Food Programme - VAM
+organization,Contributor,WFP - World Food Programme
+dataset_date,Reference Period,[1990-01-01T00:00:00 TO 2021-08-15T23:59:59]
+last_modified,Updated,2021-08-22T08:27:33.221716
+data_update_frequency,Expected Update Frequency,Never
+groups,Location,"Afghanistan, Algeria, Angola, Argentina, Armenia, Azerbaijan, Bangladesh, Belarus, Benin, Bhutan, Bolivia (Plurinational State of), Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Central African Republic, Chad, China, Colombia, Congo, Costa Rica, Côte d'Ivoire, Democratic Republic of the Congo, Djibouti, Dominican Republic, Ecuador, Egypt, El Salvador, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Georgia, Ghana, Guatemala, Guinea, Guinea-Bissau, Haiti, Honduras, India, Indonesia, Iran (Islamic Republic of), Iraq, Japan, Jordan, Kazakhstan, Kenya, Kyrgyzstan, Lao People's Democratic Republic, Lebanon, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mexico, Mongolia, Mozambique, Myanmar, Namibia, Nepal, Nicaragua, Niger, Nigeria, Pakistan, Panama, Paraguay, Peru, Philippines, Republic of Moldova, Russian Federation, Rwanda, Senegal, Sierra Leone, Somalia, South Africa, South Sudan, Sri Lanka, State of Palestine, Sudan, Syrian Arab Republic, Tajikistan, Thailand, Timor-Leste, Togo, Türkiye, Uganda, Ukraine, United Republic of Tanzania, Venezuela (Bolivarian Republic of), Viet Nam, Yemen, Zambia, Zimbabwe"
+license_title,License,Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)
+methodology,Methodology,Registry
+methodology_other,Define Methodology,
+caveats,Caveats/Comments,
+tags,Tags,"economics, indicators, markets"
+resource_1_created,Created,2018-09-27T11:46:58.054729
+resource_1_description,Description,Word Food Programme – Food Prices  Data Source: WFP Vulnerability Analysis and Mapping (VAM).
+resource_1_format,File Format,CSV
+resource_1_download_url,Download URL,https://data.humdata.org/dataset/4fdcd4dc-5c2f-43af-a1e4-93c9b6539a27/resource/12d7c8e3-eff9-4db0-93b7-726825c4fe9a/download/wfpvam_foodprices.csv
+resource_1_id,Resource ID,12d7c8e3-eff9-4db0-93b7-726825c4fe9a
+resource_1_last_modified,Updated,2021-08-22T08:27:33.221716
+resource_1_metadata_modified,Metadata Updated,2023-03-02T22:00:45.924131
+resource_1_microdata,Microdata,False
+resource_1_dataset_id,Dataset ID,4fdcd4dc-5c2f-43af-a1e4-93c9b6539a27
+resource_1_resource_type,Resource Type,file.upload
+resource_1_name,Resource Name,Global Food Prices Database (WFP)
+resource_1_mimetype,MIME Type,
+resource_1_size,Size,215.3M

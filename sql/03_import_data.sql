@@ -1,0 +1,1 @@
+I have used python to import the data in PostgreSQL :- You can refer to the file "scripts/06_load_postgres.py"
